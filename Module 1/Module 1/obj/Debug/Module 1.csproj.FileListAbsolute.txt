@@ -1,0 +1,7 @@
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\bin\Debug\Module 1.exe.config
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\bin\Debug\Module 1.exe
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\bin\Debug\Module 1.pdb
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\obj\Debug\Module 1.csproj.AssemblyReference.cache
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\obj\Debug\Module 1.csproj.CoreCompileInputs.cache
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\obj\Debug\Module 1.exe
+C:\Users\Kristhian Lex\source\repos\Module 1\Module 1\obj\Debug\Module 1.pdb
